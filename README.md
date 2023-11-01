@@ -1,2 +1,2 @@
-# uoftweb
-My Website
+# UoftWebpage
+Uoft Website
